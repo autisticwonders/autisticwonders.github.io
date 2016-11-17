@@ -1,5 +1,5 @@
 # Site settings
-title: Autistic Wonders Foundation
+title: Autistic Wonders Organization
 email: hello@awfoundation.org
 description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
